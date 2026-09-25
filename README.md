@@ -1,5 +1,13 @@
 # Task Management System Software
 
+> **Note:** This is a preserved copy of the team project originally developed at
+> [owlCoder/task-management-system-software](https://github.com/owlCoder/task-management-system-software),
+> built by a 23-person university team.
+> My contributions: the user microservice (Cloudflare R2 profile-image upload) with its
+> gateway endpoints, and the project microservice — one of its main backend contributors
+> (project-user assignment, DTOs, validation, Result-pattern handling) — plus parts of the
+> project-related frontend (user assignment modals and project pages).
+
 Task Management System is a software solution that encapsulates the business logic for managing tasks, projects, dependencies, shared and production materials, and providing detailed analytics. It enables creating and tracking tasks, setting statuses and priorities, assigning ownership, and generating reports for progress monitoring and insights.
 
 ## [Jira](https://oib1.atlassian.net/jira/software/projects/DP/boards/1)
